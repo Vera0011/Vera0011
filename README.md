@@ -1,3 +1,4 @@
+``` js
 let obj = {
   name : "Vera",
   age : "19",
@@ -7,4 +8,4 @@ let obj = {
   frameworks : "Node.js"
 };
 
-console.log(`\nName: ${obj.name}\nAge: ${obj.age}`);
+console.log(`\nName: ${obj.name}\nAge: ${obj.age}`);```
