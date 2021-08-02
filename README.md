@@ -1,3 +1,7 @@
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&theme=dark)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera0011&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 # __PRESENTATION:__
 ``` js
 let obj = {
@@ -25,5 +29,3 @@ Country: Spain
 Languages: JavaScript C MySQL SQLite CSS3 HTML5
 Frameworks: Node.js
 ```
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vera0011)](https://github.com/anuraghazra/github-readme-stats)
