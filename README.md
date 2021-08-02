@@ -7,7 +7,7 @@ let obj = {
   age : "19",
   level : "Junior",
   country : "Spain",
-  languages : ["JavaScript", "C", "CSS3", "HTML5"]
+  languages : ["JavaScript", "C", "CSS3", "HTML5", "SQL"]
 };
 
 console.log(`
@@ -22,5 +22,5 @@ Name: Vera
 Age: 19
 Level in programmation: Junior
 Country: Spain
-Languages: JavaScript C CSS3 HTML5
+Languages: JavaScript C CSS3 HTML5 SQL
 ```
