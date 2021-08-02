@@ -9,15 +9,17 @@ let obj = {
   frameworks : "Node.js"
 };
 
-console.log(`\n\x1b[33mName:\x1b[0m ${obj.name}\n\x1b[33mAge:\x1b[0m ${obj.age}
-\n\x1b[33mLevel in programmation:\x1b[0m ${obj.level}\n\x1b[33mCountry:\x1b[0m ${obj.country}
-\n\x1b[33mLanguages:\x1b[0m ${obj.languages.toString().replace(/,/gm, ' ')}
-\n\x1b[33mFrameworks:\x1b[0m ${obj.frameworks}`);
+console.log(`
+\nName: ${obj.name}\nAge:${obj.age}
+\nLevel in programmation: ${obj.level}
+\nCountry: ${obj.country}
+\nLanguages: ${obj.languages.toString().replace(/,/gm, ' ')}
+\nFrameworks: ${obj.frameworks}`);
 
 ```
 # RESULT:
 
-```js
+```
 Name: Vera
 Age: 19
 Level in programmation: Junior
