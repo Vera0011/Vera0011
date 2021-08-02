@@ -1,4 +1,4 @@
-# CODE:
+# __PRESENTATION:__
 ``` js
 let obj = {
   name : "Vera",
@@ -17,8 +17,6 @@ console.log(`
 \nFrameworks: ${obj.frameworks}`);
 
 ```
-# RESULT:
-
 ```
 Name: Vera
 Age: 19
@@ -27,3 +25,5 @@ Country: Spain
 Languages: JavaScript C MySQL SQLite CSS3 HTML5
 Frameworks: Node.js
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vera0011)](https://github.com/anuraghazra/github-readme-stats)
