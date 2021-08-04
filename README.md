@@ -7,14 +7,16 @@ let obj = {
   age : "19",
   level : "Junior",
   country : "Spain",
-  languages : ["JavaScript", "C", "CSS3", "HTML5", "SQL"]
+  languages : ["JavaScript", "C", "CSS3", "HTML5", "SQL"],
+  frameworks: ["Bootstrap"]
 };
 
 console.log(`
 \nName: ${obj.name}\nAge:${obj.age}
 \nLevel in programmation: ${obj.level}
 \nCountry: ${obj.country}
-\nLanguages: ${obj.languages.toString().replace(/,/gm, ' ')}`);
+\nLanguages: ${obj.languages.toString().replace(/,/gm, ' ')}
+\nFrameworks: ${obj.frameworks.toString().replace(/,/gm, ' ')}`);
 
 ```
 ```
@@ -23,4 +25,5 @@ Age: 19
 Level in programmation: Junior
 Country: Spain
 Languages: JavaScript C CSS3 HTML5 SQL
+Frameworks: Bootstrap
 ```
