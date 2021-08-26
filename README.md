@@ -7,25 +7,18 @@ let skills = {
     age: "19",
     level: "Junior",
     country: "Spain",
-    languages: ["JavaScript", "C", "CSS3", "HTML5", "SQL"],
-    frameworks: ["Bootstrap", "NodeJS"],
-    modules: ["Express.js", "Bycript.js"],
+    languages: ["JavaScript", "C", "SQL", "Solidity"],
+    layouts: {
+        markup: ["HTML5", "Handlebars"],
+        styling: ["CSS3", "BootStrap"]
+    },
+    environments: ["NodeJS"],
+    modules: ["Express.js", "Bcrypt.js"],
     databases: {
         relational: ["MySQL", "SQLite"]
     },
     tools: ["Heroku", "Git"]
 };
-
-console.log(`
-  \nName: ${skills.name}
-  \nAge:${skills.age}
-  \nLevel in programmation: ${skills.level}
-  \nCountry: ${skills.country}
-  \nLanguages: ${skills.languages.toString().replace(/,/gm, ' ')}
-  \nFrameworks: ${skills.frameworks.toString().replace(/,/gm, ' ')}
-  \nModules: ${skills.modules.toString().replace(/,/gm, ' ')}
-  \nDatabases: ${skills.databases.relational.toString().replace(/,/gm, ' ')}
-  \nTools: ${skills.tools.toString().replace(/,/gm, ' ')}`);
 
 ```
 ```
@@ -33,9 +26,12 @@ Name: Vera
 Age: 19
 Level in programmation: Junior
 Country: Spain
-Languages: JavaScript C CSS3 HTML5 SQL
-Frameworks: Bootstrap
-Modules: Express.js Bycript.js
+Languages: JavaScript C SQL Solidity
+Layouts:
+    - Markup: HTML5 Handlebars
+    - Styling: CSS3 Bootstrap
+Environments: NodeJS
+Modules: Express.js Bcrypt.js
 Databases: MySQL, SQLite
 Tools: Heroku Git
 ```
