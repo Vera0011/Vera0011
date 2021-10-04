@@ -7,7 +7,7 @@ let skills = {
     age: "19",
     level: "Junior",
     country: "Spain",
-    languages: ["JavaScript", "C", "SQL", "Solidity"],
+    languages: ["JavaScript", "C", "SQL"],
     layouts: {
         markup: ["HTML5", "Handlebars"],
         styling: ["CSS3", "BootStrap"]
@@ -26,7 +26,7 @@ Name: Vera
 Age: 19
 Level in programmation: Junior
 Country: Spain
-Languages: JavaScript C SQL Solidity
+Languages: JavaScript C SQL
 Layouts:
     - Markup: HTML5 Handlebars
     - Styling: CSS3 Bootstrap
