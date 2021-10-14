@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera0011&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vera0011)](https://github.com/anuraghazra/github-readme-stats)
 
 # __PRESENTATION:__
 ``` js
