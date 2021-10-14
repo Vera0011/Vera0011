@@ -52,7 +52,7 @@ Tools: Heroku Git
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera0011&show_icons=true&locale=en&layout=compact" alt="vera0011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en" alt="vera0011" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vera0011&" alt="vera0011" /></p>
 
