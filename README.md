@@ -1,10 +1,11 @@
 # __Stats:__
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera0011&show_icons=true&locale=en&layout=compact" alt="vera0011" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera0011&show_icons=true&locale=en&layout=compact" alt="vera0011" /></p>
 
 # __Throphees:__
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vera0011" alt="vera0011" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # __Languages and Toools:__
