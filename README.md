@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vera0011&label=Profile%20views&color=0e75b6&style=flat" alt="vera0011" /> </p>
-
 # __Throphees:__
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vera0011" alt="vera0011" /></a> </p>
 
