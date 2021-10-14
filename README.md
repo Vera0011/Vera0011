@@ -1,5 +1,6 @@
 # __Stats:__
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vera0011&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera0011&show_icons=true&locale=en&layout=compact" alt="vera0011" /></p>
 
 # __Throphees:__
