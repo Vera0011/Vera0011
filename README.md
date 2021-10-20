@@ -25,7 +25,7 @@
 <p align="center"><img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vera0011&show_icons=true&locale=en&layout=compact&theme=dark" alt="vera0011" /></p>
 
 <h3 align="center">Trophees:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vera0011&theme=onedark&row=2&column=3" alt="vera0011" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vera0011&theme=alduin&row=2&column=3" alt="vera0011" /></a> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # __Presentation:__
