@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A passionate (and junior) programmer, from Spain</h3>
 
-- 🔭 I’m currently working on [You Wear](https://github.com/YouWear)
+- 🔭 I’m currently working on [NodeVerse](https://github.com/NodeVerse)
 
 - 🌱 I’m currently learning **FrontEnd and BackEnd skills**
-
-- 👨‍💻 All of my projects are available at [https://veraportfolio.herokuapp.com](https://veraportfolio.herokuapp.com)
 
 - 📫 How to reach me **contact.vera0011@gmail.com**
 
