@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A passionate (and junior) programmer, from Spain</h3>
 
-- 🔭 I’m currently working on [NodeVerse](https://github.com/NodeVerse)
+- 🔭 I’m currently working on [NodeVerse](https://github.com/NodeVerse0011)
 
 - 🌱 I’m currently learning **FrontEnd and BackEnd skills**
 
