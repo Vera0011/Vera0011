@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A passionate (and junior) programmer, from Spain</h3>
 
-- 🔭 I’m currently working on [NodeVerse](https://github.com/NodeVerse0011)
+- 🔭 I’m currently working on **Vita Hosting**
 
-- 🌱 I’m currently learning **FrontEnd and BackEnd skills**
+- 🌱 I’m currently learning **FrontEnd, BackEnd and Desktop Application skills**
 
 - 📫 How to reach me **contact.vera0011@gmail.com**
 
@@ -29,22 +29,23 @@
 # __Presentation:__
 
 ``` js
-let skills = {
+const skills = {
     name: "Vera",
     age: "19",
     level: "Junior",
     country: "Spain",
-    languages: ["JavaScript", "C", "SQL"],
+    languages: ["JavaScript", "C", "SQL", "HTML5", "CSS3"],
     layouts: {
-        markup: ["HTML5", "Handlebars"],
-        styling: ["CSS3", "BootStrap"]
+        markup: ["Handlebars"],
+        styling: ["BootStrap"]
     },
+    desktop: ["Electron"],
     environments: ["NodeJS"],
     modules: ["Express.js", "Bcrypt.js"],
     databases: {
-        relational: ["MySQL", "SQLite"]
+        relational: ["MySQL", "SQLite3"]
     },
-    tools: ["Heroku", "Git"]
+    tools: ["Heroku", "Git", "Snyk"]
 };
 
 ```
@@ -53,12 +54,13 @@ Name: Vera
 Age: 19
 Level in programmation: Junior
 Country: Spain
-Languages: JavaScript C SQL
+Languages: JavaScript C SQL HTML5 CSS3
 Layouts:
-    - Markup: HTML5 Handlebars
-    - Styling: CSS3 Bootstrap
+    - Markup: Handlebars
+    - Styling: Bootstrap
 Environments: NodeJS
+Desktop: Electron
 Modules: Express.js Bcrypt.js
 Databases: MySQL, SQLite
-Tools: Heroku Git
+Tools: Heroku Git Snyk
 ```
