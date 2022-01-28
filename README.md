@@ -45,7 +45,7 @@ const skills = {
     databases: {
         relational: ["MySQL", "SQLite3"]
     },
-    tools: ["Heroku", "Git", "Snyk"]
+    tools: ["Heroku", "Git", "Snyk", "NPM"]
 };
 
 ```
