@@ -41,7 +41,7 @@ const skills = {
     },
     desktop: ["Electron"],
     environments: ["NodeJS"],
-    modules: ["Express.js", "Bcrypt.js"],
+    modules: ["Express.js", "Bcrypt.js", "SQLCypher"],
     databases: {
         relational: ["MySQL", "SQLite3"]
     },
