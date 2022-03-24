@@ -34,7 +34,7 @@ const skills = {
     age: "19",
     level: "Junior",
     country: "Spain",
-    languages: ["JavaScript", "C", "SQL", "HTML5", "CSS3"],
+    languages: ["JavaScript", "SQL", "HTML5", "CSS3"],
     layouts: {
         markup: ["Handlebars"],
         styling: ["BootStrap"]
@@ -45,7 +45,7 @@ const skills = {
     databases: {
         relational: ["MySQL", "SQLite3"]
     },
-    tools: ["Heroku", "Git", "Snyk", "NPM"]
+    tools: ["Heroku", "Git", "Snyk", "NPM", "Trello"]
 };
 
 ```
@@ -54,7 +54,7 @@ Name: Vera
 Age: 19
 Level in programmation: Junior
 Country: Spain
-Languages: JavaScript C SQL HTML5 CSS3
+Languages: JavaScript SQL HTML5 CSS3
 Layouts:
     - Markup: Handlebars
     - Styling: Bootstrap
@@ -62,5 +62,5 @@ Environments: NodeJS
 Desktop: Electron
 Modules: Express.js Bcrypt.js
 Databases: MySQL, SQLite
-Tools: Heroku Git Snyk
+Tools: Heroku Git Snyk Trello
 ```
