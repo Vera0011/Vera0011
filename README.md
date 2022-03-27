@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A passionate (and junior) programmer, from Spain</h3>
 
-- 🔭 I’m currently working on **Vita Hosting**
-
 - 🌱 I’m currently learning **FrontEnd, BackEnd and Desktop Application skills**
 
 - 📫 How to reach me **contact.vera0011@gmail.com**
