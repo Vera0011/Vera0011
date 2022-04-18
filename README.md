@@ -43,7 +43,7 @@ const skills = {
     databases: {
         relational: ["MySQL", "SQLite3"]
     },
-    tools: ["Heroku", "Git", "Snyk", "NPM", "Trello"]
+    tools: ["Heroku", "Git", "Snyk", "NPM", "Trello", "Heroku CLI"]
 };
 
 ```
@@ -60,5 +60,5 @@ Environments: NodeJS
 Desktop: Electron
 Modules: Express.js Bcrypt.js
 Databases: MySQL, SQLite
-Tools: Heroku Git Snyk Trello
+Tools: Heroku Git Snyk Trello Heroku CLI
 ```
